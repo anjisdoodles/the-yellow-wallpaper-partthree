@@ -84,8 +84,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-273.12</pan>
-            <tilt>44.24</tilt>
+            <pan>-273.3</pan>
+            <tilt>43.79</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -110,7 +110,39 @@
       <output/>
       <streetview/>
       <streetviewproject/>
-      <sounds/>
+      <sounds>
+        <sound>
+          <position>
+            <pan>-273.07</pan>
+            <tilt>38.2</tilt>
+          </position>
+          <videorect>
+            <rotx>0</rotx>
+            <roty>-44</roty>
+            <rotz>0</rotz>
+            <fov>14.8532</fov>
+            <stretch>100</stretch>
+            <dimx>1214</dimx>
+            <dimy>564</dimy>
+          </videorect>
+          <type>image</type>
+          <id>Element01</id>
+          <filename>end.png</filename>
+          <mode>0</mode>
+          <nodechangekeep>0</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+          <clickmode>none</clickmode>
+          <handcursor>0</handcursor>
+        </sound>
+      </sounds>
       <id>node2</id>
     </panorama>
   </tour>
